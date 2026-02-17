@@ -239,7 +239,3 @@ Key operations are timed and logged. Check console output for:
 - Feature computation time
 - Model training time
 - Backtesting time
-
-## Author
-
-Built with production-level standards for quantitative trading research.
